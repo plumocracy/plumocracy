@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey! I'm Plum
 
-<!--
-**plumocracy/plumocracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I obsess over UX and build reliable systems.
 
-Here are some ideas to get you started:
+I'm especially interested in infrastructure, developer tools, and realtime interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  I'm currently looking for work.
+  <a href="mailto:plum@plumocracy.com">Email me</a> :)
+</p>
+
+<h3 align="left">Tech I like:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,ts,svelte,react,postgres,redis,docker,kubernetes,grafana,go" alt="Rust, TypeScript, Svelte, React, PostgreSQL, Redis, Docker, Kubernetes, Grafana, Go" />
+</p>
