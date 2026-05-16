@@ -9,7 +9,7 @@ I'm especially interested in infrastructure, developer tools, and realtime inter
   <a href="mailto:plum@plumocracy.com">Email me</a> :)
 </p>
 
-<h3 align="left">Tech I like:</h3>
+<h3 align="left">Tech I use:</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,ts,svelte,react,postgres,redis,docker,kubernetes,grafana,go" alt="Rust, TypeScript, Svelte, React, PostgreSQL, Redis, Docker, Kubernetes, Grafana, Go" />
