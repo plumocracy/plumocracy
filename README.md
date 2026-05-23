@@ -12,5 +12,5 @@ I'm especially interested in infrastructure, developer tools, and realtime inter
 <h3 align="left">Tech I use:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,rust,ts,svelte,react,postgres,redis,docker,kubernetes,grafana" alt="Python, Rust, TypeScript, Svelte, React, PostgreSQL, Redis, Docker, Kubernetes, Grafana" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,python, svelte,react,postgres,redis,docker,kubernetes,grafana" alt="Python, Rust, TypeScript, Svelte, React, PostgreSQL, Redis, Docker, Kubernetes, Grafana" />
 </p>
